@@ -67,7 +67,3 @@ This project provides a graphical version of the classic Tic-Tac-Toe game, where
 - **Project Owner**: Çiya Baran Öner  
 - **Email**: [ciya.baran.oner@gmail.com](mailto:ciya.baran.oner@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/ciyabaranoner](https://linkedin.com/in/ciyabaranoner)
-
----
-
-This project is an excellent starting point for learning Python and Pygame while building a fun game! 🎮
